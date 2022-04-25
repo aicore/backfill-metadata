@@ -1,0 +1,3 @@
+Map(1) {
+  'fthiagogv.naturegreen-dark-syntax' => "TypeError: Cannot create property 'type' on string 'syntax'"
+}
